@@ -25,7 +25,7 @@ EIP 有三种类型：
   - **核心**：需要共识分叉的改进（例如 [EIP-5](./eip-5.md)、[EIP-101](./eip-101.md)），以及不一定是共识关键但可能与 [“核心开发”讨论](https://github.com/ethereum/pm) 相关的更改（例如 [EIP-90]，以及 [EIP-86](./eip-86.md) 的矿工/节点策略更改 2、3 和 4）。
   - **网络**：包括围绕 [devp2p](https://github.com/ethereum/devp2p/blob/readme-spec-links/rlpx.md) 的改进 ([EIP-8](./eip-8.md)) 和 [轻以太坊子协议](https://ethereum.org/en/developers/docs/nodes-and-clients/#light-node)，以及对 [whisper](https://github.com/ethereum/go-ethereum/issues/16013#issuecomment-364639309) 和 [swarm](https://github.com/ethereum/go-ethereum/pull/2959) 的网络协议规范的提议改进。
   - **接口**：包括围绕语言级标准的改进，如方法名称 ([EIP-6](./eip-6.md)) 和 [合约 ABI](https://docs.soliditylang.org/en/develop/abi-spec.html)。
-  - **ERC**：应用级标准和惯例，包括合约标准，如代币标准 ([ERC-20](./eip-20.md))、名称注册 ([ERC-137](./eip-137.md))、URI 方案、库/包格式和钱包格式。
+  - **ERC**：应用级标准和惯例，包括合约标准，如代币标准 ([ERC-20](../ERCs/erc-20.md))、名称注册 ([ERC-137](./eip-137.md))、URI 方案、库/包格式和钱包格式。
 
 - **元 EIP** 描述围绕以太坊的过程或提议对过程的更改（或事件）。过程 EIP 类似于标准跟踪 EIP，但适用于以太坊协议以外的领域。它们可能提议一个实现，但不涉及以太坊的代码库；它们通常需要社区共识；与信息性 EIP 不同，它们不仅仅是建议，用户通常不能随意忽视它们。示例包括程序、指南、决策过程的更改以及用于以太坊开发的工具或环境的更改。任何元 EIP 也被视为过程 EIP。
 
