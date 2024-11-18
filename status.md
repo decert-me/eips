@@ -392,7 +392,6 @@
 | [EIP-7773](./src/zh-cn/EIPs/eip-7773.md) | 未校对 | AI | |
 | [EIP-7778](./src/zh-cn/EIPs/eip-7778.md) | 未校对 | AI | |
 | [EIP-7782](./src/zh-cn/EIPs/eip-7782.md) | 未校对 | AI | |
-
 | [ERC-20](./src/zh-cn/ERCs/erc-20.md) | 未校对 | AI | |
 | [ERC-55](./src/zh-cn/ERCs/erc-55.md) | 未校对 | AI | |
 | [ERC-67](./src/zh-cn/ERCs/erc-67.md) | 未校对 | AI | |
@@ -838,7 +837,7 @@
 | [ERC-7679](./src/zh-cn/ERCs/erc-7679.md) | 未校对 | AI | |
 | [ERC-7681](./src/zh-cn/ERCs/erc-7681.md) | 未校对 | AI | |
 | [ERC-7682](./src/zh-cn/ERCs/erc-7682.md) | 未校对 | AI | |
-| [ERC-7683](./src/zh-cn/ERCs/erc-7683.md) | 未校对 | AI | |
+| [ERC-7683](./src/zh-cn/ERCs/erc-7683.md) | 已校对✅ | AI | [dwong](https://x.com/0xdwong)|
 | [ERC-7695](./src/zh-cn/ERCs/erc-7695.md) | 未校对 | AI | |
 | [ERC-7700](./src/zh-cn/ERCs/erc-7700.md) | 未校对 | AI | |
 | [ERC-7720](./src/zh-cn/ERCs/erc-7720.md) | 未校对 | AI | |
